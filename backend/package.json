@@ -1,0 +1,30 @@
+{
+  "name": "ludo-backend",
+  "version": "0.1.0",
+  "description": "Full stack implementation of ludo game.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alclary/ludo_game.git"
+  },
+  "keywords": [
+    "game",
+    "ludo",
+    "MERN"
+  ],
+  "author": "A. Logan Clary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alclary/ludo_game/issues"
+  },
+  "homepage": "https://github.com/alclary/ludo_game#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

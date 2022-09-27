@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../School/Archive/CS-162/Portfolio/portfolio-alclary"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ludo_game"
+	}
+}
